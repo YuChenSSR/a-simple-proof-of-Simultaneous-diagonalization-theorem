@@ -1,5 +1,5 @@
 # a-simple-proof-of-Simultaneous-diagonalization-theorem
-a simple proof of Simultaneous diagonalization theorem
+a simple proof of Simultaneous diagonalization theorem in quantum computing.
 
 (Simultaneous diagonalization theorem) Suppose $A$ and $B$ are Hermitian operators. Then $[A, B] = 0$ if and only if there exists an orthonormal basis such that both $A$ and $B$ are diagonal with respect to that basis. We say that $A$ and $B$ are simultaneously diagonalizable in this case.
 
