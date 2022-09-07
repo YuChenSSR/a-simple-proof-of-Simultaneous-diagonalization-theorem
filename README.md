@@ -31,4 +31,6 @@ $B=(M-M^\dagger)/(2i)=\sum_j \frac{(\lambda_j-\lambda^*_j)}{2i} |j\rangle \langl
 
 according to spectral decomposition theorem, $M$ is normal, which is that $MM^\dagger=M^\dagger M$。                              																								 $\square$
 
-
+Yu Chen
+chenyu21b@ict.ac.cn
+ICT,CAS
